@@ -2,7 +2,7 @@
 
 I am a passionate B.E CSE student at Velammal Engineering College, Chennai, Tamil Nadu, India, driven by a curiosity for technology. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
-![MrKumaran's Stats](https://github-readme-stats.vercel.app/api?username=<MrKumaran>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![MrKumaran's Stats](https://github-readme-stats.vercel.app/api?username=MrKumaran&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 - 🔭 I'm currently pursuing my Bachelor's in Computer Science and Engineering(2nd yr) at Velammal Engineering College, Chennai, Tamil Nadu, India.
