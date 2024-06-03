@@ -8,7 +8,11 @@ I am a passionate B.E CSE student at Velammal Engineering College, Chennai, Tami
 - 🔭 I'm currently pursuing my Bachelor's in Computer Science and Engineering(2nd yr) at Velammal Engineering College, Chennai, Tamil Nadu, India.
 - 🪪 Proud member of ACM.
 - 🪪 Treasurer for the VEC ACM Student Chapter(2023-2024).
-- 🔒🧐Cyber Security 
+- 🔒🧐Cyber Security
+- 👾Ethical hacker - penetration tester
+
+## Experience
+- Intern at Digialert(Infysec)
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=py,java,c,kotlin,mysql,git,linux&theme=light)](https://skillicons.dev)
