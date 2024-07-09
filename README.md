@@ -5,7 +5,7 @@ I am a passionate B.E CSE student at Velammal Engineering College, Chennai, Tami
 ![MrKumaran's Stats](https://github-readme-stats.vercel.app/api?username=MrKumaran&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
-- 🔭 I'm currently pursuing my Bachelor's in Computer Science and Engineering(2nd yr) at Velammal Engineering College, Chennai, Tamil Nadu, India.
+- 🔭 I'm currently pursuing my Bachelor's in Computer Science and Engineering(3rd yr) at Velammal Engineering College, Chennai, Tamil Nadu, India.
 - 🪪 Proud member of ACM.
 - 🪪 Treasurer for the VEC ACM Student Chapter(2023-2024).
 - 🔒🧐Cyber Security
