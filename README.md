@@ -19,7 +19,7 @@ I am a passionate B.E CSE student at Velammal Engineering College, Chennai, Tami
 
 ## 🌱 Currently Exploring
 
-- 🚀 ML and EH
+- 🚀 Independently exploring new Tech's
  
  ## 📄 Article
 - Published article on title [Improved Cyber Security in Healthcare](https://ijisae.org/index.php/IJISAE/article/view/5913) with my college seniors(M.E students).
