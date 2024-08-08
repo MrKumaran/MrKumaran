@@ -4,7 +4,7 @@ I am a passionate B.E CSE student at Velammal Engineering College, Chennai, Tami
 
 ![MrKumaran's Stats](https://github-readme-stats.vercel.app/api?username=MrKumaran&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-## 🚀 About Me
+## About Me
 - 🔭 I'm currently pursuing my Bachelor's in Computer Science and Engineering(3rd yr) at Velammal Engineering College, Chennai, Tamil Nadu, India.
 - 🪪 Proud member of ACM.
 - 🪪 Treasurer for the VEC ACM Student Chapter(2023-2024).
@@ -17,14 +17,14 @@ I am a passionate B.E CSE student at Velammal Engineering College, Chennai, Tami
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=py,java,c,kotlin,mysql,git,linux&theme=light)](https://skillicons.dev)
 
-## 🌱 Currently Exploring
+## Currently Exploring
 
 - 🚀 Independently exploring new Tech's
  
- ## 📄 Article
+ ## Article
 - Published article on title [Improved Cyber Security in Healthcare](https://ijisae.org/index.php/IJISAE/article/view/5913) with my college seniors(M.E students).
 
- ## 🏆 Achievements
+ ## Participation
 
 - 🌟 Presented Our project "LOCATION BASED SPEED CONTROL SYSTEM" on SCMIT 2024 held on 28 february 2024 at Manakula VInayagar Institute of Technology, Puducherry, India.
 - 🌟 Presented paper on "LOCATION BASED SPEED CONTROL SYSTEM" on SIMATS (Symposium) held on 18 october 2023 at Saveetha schools of engineering.
