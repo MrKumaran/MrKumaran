@@ -16,7 +16,7 @@ I am a passionate B.E CSE student at Velammal Engineering College, Chennai, Tami
 - Zoho Intern(devOps, JSE)
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=py,java,c,kotlin,mysql,git,linux&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,linux,git,figma,mysql,py,cs,kotlin,github&theme=light)](https://skillicons.dev)
 
 ## Currently Exploring
 
