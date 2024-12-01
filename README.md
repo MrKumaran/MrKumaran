@@ -12,7 +12,8 @@ I am a passionate B.E CSE student at Velammal Engineering College, Chennai, Tami
 - 👾Ethical hacker - penetration tester
 
 ## Experience
-- Intern at Digialert(Infysec)
+- Intern at Digialert(Cybersecurity)
+- Zoho Intern(devOps)
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=py,java,c,kotlin,mysql,git,linux&theme=light)](https://skillicons.dev)
