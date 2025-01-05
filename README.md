@@ -13,7 +13,7 @@ I am a passionate B.E CSE student at Velammal Engineering College, Chennai, Tami
 
 ## Experience
 - Intern at Digialert(Cybersecurity)
-- Zoho Intern(devOps, JSE)
+- Zoho Intern(Backend dev)
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=c,java,linux,git,figma,mysql,py,cs,kotlin,github&theme=light)](https://skillicons.dev)
